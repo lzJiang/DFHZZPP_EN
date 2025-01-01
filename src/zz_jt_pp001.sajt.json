@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "生产订单后台推送BPM模板",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "catalogName": "ZZ_JCE_PP001"
+  },
+  "parameters": {
+    "valueRangesParameters": [
+      {
+        "name": "AUFNR",
+        "valueRanges": []
+      }
+    ]
+  }
+}
